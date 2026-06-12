@@ -6,74 +6,74 @@
     <description>Les derniers articles publies par Vincent Lautier sur Korben.info</description>
     <language>fr-FR</language>
     <item>
+      <title>Git 2.55 active Rust par défaut, et la fin du tout-C est déjà programmée</title>
+      <link>https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee.html</link>
+      <guid isPermaLink="true">https://korben.info/git-2-55-active-rust-par-defaut-et-la-fin-du-tout-c-est-deja-programmee.html</guid>
+      <pubDate>Fri, 12 Jun 2026 23:59:00 +0200</pubDate>
+      <description>Vingt et un ans après sa création par Linus Torvalds, Git amorce pour de bon son changement de langage. La première version de test de Git 2.55, publiée hier, active par défaut le code Rust dans le...</description>
+    </item>
+    <item>
       <title>DiffusionGemma : le nouveau modèle de Google écrit son texte d'un bloc, et 4 fois plus vite</title>
       <link>https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite.html</link>
       <guid isPermaLink="true">https://korben.info/diffusiongemma-le-nouveau-modele-de-google-ecrit-son-texte-dun-bloc-et-4-fois-plus-vite.html</guid>
-      <pubDate>Fri, 12 Jun 2026 23:59:00 +0200</pubDate>
+      <pubDate>Fri, 12 Jun 2026 23:58:00 +0200</pubDate>
       <description>Plus de 1 000 tokens par seconde sur une seule carte H100, l'accélérateur que Nvidia vend aux centres de données, et environ 700 sur une RTX 5090, sa carte gaming haut de gamme. C'est le débit que...</description>
     </item>
     <item>
       <title>ReactOS, le clone libre de Windows, fait enfin tourner Half-Life après trente ans de développement</title>
       <link>https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement.html</link>
       <guid isPermaLink="true">https://korben.info/reactos-le-clone-libre-de-windows-fait-enfin-tourner-half-life-apres-trente-ans-de-developpement.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:58:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:57:00 +0200</pubDate>
       <description>ReactOS, le système d'exploitation libre qui recopie Windows brique par brique, fait désormais tourner Half-Life ( et oui, décidément c'est la journée ! ), le jeu de tir que Valve a sorti en 1998 et...</description>
     </item>
     <item>
       <title>J'ai testé les Orbi 970, le système WiFi 7 le plus avancé de chez Netgear</title>
       <link>https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear.html</link>
       <guid isPermaLink="true">https://korben.info/jai-teste-les-orbi-970-le-systeme-wifi-7-le-plus-avance-de-chez-netgear.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:57:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:56:00 +0200</pubDate>
       <description>– Contient des liens affiliés Amazon – Netgear vend son Orbi 970 à 1 999 euros le pack de trois ( en promotion, au lieu de 2400 euros ha ha ). Et le tarif a beau faire tousser, ce système maillé en...</description>
     </item>
     <item>
       <title>La beta de macOS 27 fait disparaître Asahi Linux des Mac</title>
       <link>https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac.html</link>
       <guid isPermaLink="true">https://korben.info/la-beta-de-macos-27-fait-disparaitre-asahi-linux-des-mac.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:56:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:55:00 +0200</pubDate>
       <description>Mauvaise surprise pour les utilisateurs d'Asahi Linux, le projet qui fait tourner Linux nativement sur les Mac équipés de puces Apple Silicon (les fameuses M1, M2 et suivantes). La première beta...</description>
     </item>
     <item>
       <title>Half-Life tourne à 30 fps sur un Nokia N95 de 2007</title>
       <link>https://korben.info/half-life-tourne-a-30-fps-sur-un-nokia-n95-de-2007.html</link>
       <guid isPermaLink="true">https://korben.info/half-life-tourne-a-30-fps-sur-un-nokia-n95-de-2007.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:55:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:54:00 +0200</pubDate>
       <description>Un Nokia N95 qui fait tourner Half-Life à 30 images par seconde, avec la campagne solo complète, le son, les armes et même un clavier Bluetooth, voilà ce que montre la dernière démonstration de Dante...</description>
     </item>
     <item>
       <title>Wattcycle dégrade ses batteries en douce une fois les tests YouTube passés</title>
       <link>https://korben.info/wattcycle-degrade-ses-batteries-en-douce-une-fois-les-tests-youtube-passes.html</link>
       <guid isPermaLink="true">https://korben.info/wattcycle-degrade-ses-batteries-en-douce-une-fois-les-tests-youtube-passes.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:54:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:53:00 +0200</pubDate>
       <description>La batterie Wattcycle LFP que Will Prowse avait démontée face caméra il y a quelques mois, avec ses barres de cuivre massif entre les cellules, ses câbles tressés sous gaine et son assemblage soigné...</description>
     </item>
     <item>
       <title>Il s'est construit une station de radio FM sur mesure avec six scripts bash</title>
       <link>https://korben.info/il-sest-construit-une-station-de-radio-fm-sur-mesure-avec-six-scripts-bash.html</link>
       <guid isPermaLink="true">https://korben.info/il-sest-construit-une-station-de-radio-fm-sur-mesure-avec-six-scripts-bash.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:53:00 +0200</pubDate>
+      <pubDate>Thu, 11 Jun 2026 23:52:00 +0200</pubDate>
       <description>Une radio FM posée dans la cuisine, qui diffuse 24 heures sur 24 un programme fabriqué sur mesure, sans application, sans écran et sans abonnement : voilà le projet d'un bricoleur connu sous le pseudo...</description>
     </item>
     <item>
       <title>Artemis III a son équipage, sa date et un petit problème, la mission n'ira pas sur la Lune</title>
       <link>https://korben.info/artemis-iii-a-son-equipage-sa-date-et-un-petit-probleme-la-mission-nira-pas-sur-la-lune.html</link>
       <guid isPermaLink="true">https://korben.info/artemis-iii-a-son-equipage-sa-date-et-un-petit-probleme-la-mission-nira-pas-sur-la-lune.html</guid>
-      <pubDate>Wed, 10 Jun 2026 23:52:00 +0200</pubDate>
+      <pubDate>Wed, 10 Jun 2026 23:51:00 +0200</pubDate>
       <description>La NASA a présenté les quatre astronautes d'Artemis III, la fameuse mission censée ramener des humains sur la Lune. Sauf que celle-là n'y posera pas le pied. Cap sur l'été 2027 pour deux semaines en...</description>
     </item>
     <item>
       <title>Un ver informatique qui raisonne tout seul</title>
       <link>https://korben.info/un-ver-informatique-qui-raisonne-tout-seul.html</link>
       <guid isPermaLink="true">https://korben.info/un-ver-informatique-qui-raisonne-tout-seul.html</guid>
-      <pubDate>Wed, 10 Jun 2026 23:51:00 +0200</pubDate>
-      <description>La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de...</description>
-    </item>
-    <item>
-      <title>Siri IA bloqué en Europe : Bruxelles renvoie Apple à ses responsabilités</title>
-      <link>https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites.html</link>
-      <guid isPermaLink="true">https://korben.info/siri-ia-bloque-en-europe-bruxelles-renvoie-apple-a-ses-responsabilites.html</guid>
       <pubDate>Wed, 10 Jun 2026 23:50:00 +0200</pubDate>
-      <description>La Commission européenne vient de couper l'herbe sous le pied d'Apple en affirmant que la décision de ne pas lancer le nouveau Siri dopé à l'intelligence artificielle dans l'Union est le choix...</description>
+      <description>La crainte n'est pas neuve. Mais cette fois la démonstration existe : une équipe réunissant l'université de Toronto, le Vector Institute, l'université de Cambridge et la division recherche de...</description>
     </item>
   </channel>
 </rss>
